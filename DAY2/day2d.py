@@ -1,3 +1,4 @@
+#BILL SPLITTING CALCULATOR
 
 bill = float(input("how much is your Bill:"))
 tip = int(input("how much tip do you want ot give: 5,10,12,15?? : "))
